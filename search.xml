@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+    
+    <entry>
+      <title></title>
+      <url>%2F2017%2F03%2F17%2FAdb%2F</url>
+      <content type="text"><![CDATA[查看adb默认端口占用情况adb nodaemon server 查看进程和端口号的对应关系netstat -ano|findstr”5037”]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>%2F2017%2F03%2F17%2Fhello-world%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[gradle构建]]></title>
+      <url>%2F2015%2F10%2F03%2Fgradle%E6%9E%84%E5%BB%BA%2F</url>
+      <content type="text"><![CDATA[Gradle之构建变体 – buildvariant Gradle之多版本打包不同依赖配置 Gradle多渠道打包替换图片、xml等资源文件 Gradle配置不同服务器地址以生成不同的安装包 通过 gradle 自动配置一些参数 gradle依赖的统一管理]]></content>
+    </entry>
+
+    
+  
+  
+</search>
